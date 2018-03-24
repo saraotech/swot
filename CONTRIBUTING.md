@@ -17,6 +17,7 @@ If you did not contribute to this repository before, please read the repository 
         [-] edu
             [+] harvard
             [+] stanford
+            [+] chandigarh university
         [-] uk
             [-] ac
                 [+] strath
